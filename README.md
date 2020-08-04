@@ -1,8 +1,6 @@
 ### Hi there, I'm Daniel - aka [shorcy][website]
 
 ## I'm a Frontend Developer!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn GraphQL & FeathersJS
 - ⚡ Fun fact: I love design, Online Digital Marketing & UI/UX
 
