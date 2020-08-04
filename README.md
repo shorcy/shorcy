@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel - aka [shorcy][website]
+### Hi there, I'm Daniel - aka [shorcy][website] 👋
 
 ## I'm a Frontend Developer!
 - 🥅 2020 Goals: Learn GraphQL & FeathersJS
