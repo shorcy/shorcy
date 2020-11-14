@@ -1,8 +1,8 @@
 ### Hi there, I'm Daniel - aka [shorcy][website] 👋
 
 ## I'm a Frontend Developer!
-- 🥅 2020 Goals: Learn GraphQL & FeathersJS
-- ⚡ Fun fact: I love design, Online Digital Marketing & UI/UX
+- 🥅 2020 Goals: Learn C# and .NET core
+- ⚡ Fun fact: In school I was know as the shorts king and that is where the name shorcy comes from.
 
 ### Connect with me:
 
